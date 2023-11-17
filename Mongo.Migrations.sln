@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Mongo.Migrations", "Mongo.Migrations\Infrastructure.Mongo.Migrations.csproj", "{3E494D37-51EE-4F1B-9E23-E2FE45A670B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versioning", "Versioning\Versioning.csproj", "{F06B9F90-6769-4F00-A48D-23484834B7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E494D37-51EE-4F1B-9E23-E2FE45A670B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E494D37-51EE-4F1B-9E23-E2FE45A670B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E494D37-51EE-4F1B-9E23-E2FE45A670B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E494D37-51EE-4F1B-9E23-E2FE45A670B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06B9F90-6769-4F00-A48D-23484834B7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06B9F90-6769-4F00-A48D-23484834B7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06B9F90-6769-4F00-A48D-23484834B7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06B9F90-6769-4F00-A48D-23484834B7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

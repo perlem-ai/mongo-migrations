@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Hdp.$(MSBuildProjectName)</AssemblyName>
+        <RootNamespace>Hdp.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.1.0</Version>
+    </PropertyGroup>
+
+</Project>
